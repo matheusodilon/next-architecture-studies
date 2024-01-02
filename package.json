@@ -13,5 +13,10 @@
     "start:web-public": "yarn workspace @estudos/web-public start",
     "design-system": "yarn workspace @estudos/design-system",
     "web-public": "yarn workspace @estudos/web-public"
+  },
+  "dependencies": {
+    "@types/react": "18.2.46",
+    "@types/styled-components": "5.1.25",
+    "typescript": "5.3.3"
   }
 }
