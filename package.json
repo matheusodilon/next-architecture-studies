@@ -10,6 +10,8 @@
   "scripts": {
     "dev:web-public": "yarn workspace @estudos/web-public dev",
     "build:web-public": "yarn workspace @estudos/web-public build",
-    "start:web-public": "yarn workspace @estudos/web-public start"
+    "start:web-public": "yarn workspace @estudos/web-public start",
+    "design-system": "yarn workspace @estudos/design-system",
+    "web-public": "yarn workspace @estudos/web-public"
   }
 }
